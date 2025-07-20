@@ -1,8 +1,0 @@
-This folder should contain the JavaScript libraries:
-- animate/
-- easing/
-- wow/
-- waypoints/
-- typed/
-
-Please restore these library folders for full functionality.
