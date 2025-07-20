@@ -1,0 +1,5 @@
+This folder should contain:
+- Logo.png (your logo file)
+- profile.png (your profile image)
+
+Please add these files to make your portfolio work correctly.
